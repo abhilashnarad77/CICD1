@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World CICD1 Welcome to Nagpur!</h2>
+<h2>Hello world welcome to Nagpur!</h2>
 </body>
 </html>
